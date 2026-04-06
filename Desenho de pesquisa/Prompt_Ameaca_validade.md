@@ -1,0 +1,1 @@
+Preciso identificar as **ameaças potenciais à validade do meu trabalho**. Vou enviar um exemplo de trabalho que utiliza essa estrutura para construir uma seção. O exemplo se intitula: Detecção e priorização de problemas com base na análise de aplicativos móveis. E aqui está o meu trabalho.
