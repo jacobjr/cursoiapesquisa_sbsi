@@ -23,7 +23,9 @@ rigor metodológico da comunidade;
 - Preparar o novo pesquisador para o futuro presente da Pesquisa em SI, promovendo
 a fluência no uso de ferramentas de IA, competência necessária neste novo mundo.
 
+## Caso utilize algum dos recursos disponíveis aqui, para citar este trabalho, utilize:
 
+LOBATO, F. M. F.; COUTO, M. L. do; JACOB JR., A. F. L.; SANTIN, R. V.; REZENDE, S. O.; MARCACINI, R. M. Ferramentas de inteligência artificial para suporte ao processo de pesquisa em sistemas de informação. In: OLIVEIRA, Jonice; VIANA, Davi (org.). Minicursos do SBSI 2026. Porto Alegre: Sociedade Brasileira de Computação, 2026. p. 33–63. Disponível em: https://doi.org/10.5753/sbc.19165.0.2
 
 ## Estrutura do Repositório
 
